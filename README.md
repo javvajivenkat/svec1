@@ -1,3 +1,3 @@
 # svec1
 
-CSE
+CSE SVEC
